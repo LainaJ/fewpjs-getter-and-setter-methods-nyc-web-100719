@@ -51,11 +51,11 @@ buddy.speak; // returns 'Buddy says What'cha doin'?'
 
 Building on this concept, we're going to build our own shape calculator!
 
-- First, let's create a `class` of `Circle`
-- `Circle` will accept 1 parameter, `radius`, and use `this.radius` to store the
+- X First, let's create a `class` of `Circle`
+- X `Circle` will accept 1 parameter, `radius`, and use `this.radius` to store the
   value
-- Use `Math.PI` to get an accurate measurement of [pi][pi] (&pi;)
-- Define getter methods for `diameter`, `circumference`, and `area` which
+- X Use `Math.PI` to get an accurate measurement of [pi][pi] (&pi;)
+- X Define getter methods for `diameter`, `circumference`, and `area` which
   will calculate each value using `this.radius` and pi
 - Define setter methods for `diameter`, `circumference`, and `area` which
   will accept values for each calculation, calculate the _radius_ based on the
